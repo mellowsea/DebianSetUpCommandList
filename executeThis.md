@@ -6,6 +6,9 @@ Get Latest
 
 `sudo apt dist-upgrade`
 
+Get Fish
+`sudo apt install fish`
+
 Get Git 
 
 `sudo apt install git -y`
@@ -14,14 +17,22 @@ Get Curl
 
 `sudo apt install curl -y` 
 
+ENTER FISH 
+
+Get Fisher 
+`curl -sL https://git.io/fisher | source && fisher install jorgebucaran/fisher`
+
 install nvm 
 
-`curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash`
+`fisher install jorgebucaran/nvm.fish`
 
-`nvm install node`
+`nvm install latest`
 
-`nvm install --lts`
+`nvm install lts`
 
+make bash easier in fish 
+
+`fisher install edc/bass`
 
 
  
