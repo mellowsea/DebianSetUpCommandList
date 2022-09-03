@@ -61,11 +61,23 @@ Enter in terminal
 
 do you have to install conda? might as well pull your hair out now . jk you already did that jk again it didn't work cause FUCK THIS 
 
+JK ON EVERYONE - DO THIS IS BASH BITCH! 
+
 https://www.anaconda.com/products/distribution
 
 move the downloaded file to your home folder 
 
 `bash Anaconda-latest-Linux-x86_64.sh`
+
+Restart the terminal 
+
+`conda init fish`
+
+Restart the terminal AGAIN
+ 
+ All should be good now 
+ 
+ 
 
 
 
