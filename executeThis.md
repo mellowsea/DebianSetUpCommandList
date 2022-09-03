@@ -12,6 +12,7 @@
 ## Get Git 
 
 `sudo apt install git -y`
+`sudo apt-get install git-lfs`
 
 ## Get Curl 
 
