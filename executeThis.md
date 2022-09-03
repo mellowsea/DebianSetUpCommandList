@@ -43,6 +43,7 @@ open in browser
 
 quit in terminal for some inexplicable reason
 
+
 Edit and close browser 
 
 Enter in terminal 
@@ -52,6 +53,8 @@ Enter in terminal
 `sudo apt install exa`
 
 `fisher install jethrokuan/z`
+
+`sudo apt install peco`
 
 
 
