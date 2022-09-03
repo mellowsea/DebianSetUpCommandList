@@ -57,7 +57,15 @@ Enter in terminal
 `sudo apt install peco`
 
 
+## ANACONDA 
 
+do you have to install conda? might as well pull your hair out now . jk you already did that jk again it didn't work cause FUCK THIS 
+
+https://www.anaconda.com/products/distribution
+
+move the downloaded file to your home folder 
+
+`bash Anaconda-latest-Linux-x86_64.sh`
 
 
 
