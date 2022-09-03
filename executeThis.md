@@ -1,4 +1,4 @@
-Get Latest 
+## Get Latest 
 
 `sudo apt update` 
 
@@ -6,23 +6,24 @@ Get Latest
 
 `sudo apt dist-upgrade`
 
-Get Fish
+## Get Fish
 `sudo apt install fish`
 
-Get Git 
+## Get Git 
 
 `sudo apt install git -y`
 
-Get Curl 
+## Get Curl 
 
 `sudo apt install curl -y` 
 
-ENTER FISH 
+## ENTER FISH 
 
-Get Fisher 
+## Get Fisher 
+
 `curl -sL https://git.io/fisher | source && fisher install jorgebucaran/fisher`
 
-install nvm 
+## install nvm 
 
 `fisher install jorgebucaran/nvm.fish`
 
@@ -30,9 +31,35 @@ install nvm
 
 `nvm install lts`
 
-make bash easier in fish 
+## make bash easier in fish 
 
 `fisher install edc/bass`
+
+## configure fish to look like a 10x hackzer 
+
+`fish_config browse`
+
+open in browser
+
+quit in terminal for some inexplicable reason
+
+Edit and close browser 
+
+Enter in terminal 
+
+## More FISH 
+
+`sudo apt install exa`
+
+`fisher install jethrokuan/z`
+
+
+
+
+
+
+
+
 
 
  
